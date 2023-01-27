@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=wave&color=skyblue&height=300&section=header&text=new%20effort();&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=skyBlue&height=300&section=header&text=new%20effort();&fontSize=90" />
 
 Channel
 <!-- 티스토리 -->
