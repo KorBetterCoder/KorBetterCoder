@@ -1,6 +1,9 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Pyton-3766AB?style=flat-square&logo=Pyton&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/tistory-#000000?style=flat&logo=Tistory&logoColor=#000000"/></a>
+
+
+<img src="https://img.shields.io/badge/Tistory-#000000?style=flat&logo=OpenJDK&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KorBetterCoder&show_icons=true&theme=radical)
 <!--
