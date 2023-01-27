@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=new%20effort();&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=new%20effort();&fontSize=90" />
 
 
 Channel
@@ -12,7 +12,7 @@ Channel
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KorBetterCoder&show_icons=true&theme=radical)
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&section=footer)
 <!--
 **KorBetterCoder/KorBetterCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
