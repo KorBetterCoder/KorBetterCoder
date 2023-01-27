@@ -5,6 +5,7 @@
 <!--  --><a href="https//bettercoding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-000000?style=plastic&logo=Tistory&logoColor=white"/></a>
 <!-- 지메일 --><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/galashow7@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a><!-- 노션 --><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KorBetterCoder)](https://github.com/KorBetterCoder/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KorBetterCoder&show_icons=true&theme=radical)
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&section=footer)
