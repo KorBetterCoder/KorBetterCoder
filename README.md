@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/[Tistory]bettercoding.tistory.com-000000?style=plastic&logo=Tistory&logoColor=white"/></a>
+<!-- 티스토리 -->
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/bettercoding.tistory.com-000000?style=plastic&logo=Tistory&logoColor=white"/></a>
+<!-- 지메일 -->
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/galashow7@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
+<!-- 노션 -->
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KorBetterCoder&show_icons=true&theme=radical)
 <!--
