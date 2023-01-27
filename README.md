@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="[https://img.shields.io/badge/galashow7@gmail.com-000000?style=plastic&logo=Tistory&logoColor=white](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white)"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/galashow7@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KorBetterCoder&show_icons=true&theme=radical)
 <!--
