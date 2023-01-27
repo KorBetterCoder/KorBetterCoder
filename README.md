@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=new%20effort();&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=new%20effort();&fontSize=90" />
 
 
 Channel
