@@ -15,7 +15,7 @@
 <br/>
 <hr>
  
-<!-- 블로그 -->[<img src="https://img.shields.io/badge/Tech Blog-000000?style=plastic&logo=Tistory&logoColor=white"/>](https//bettercoding.tistory.com/){:target="_blank"}&nbsp;<!-- 지메일 --><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/galashow7@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>&nbsp;<!-- 노션 --><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>
+<!-- 블로그 --><a href=""https://bettercoding.tistory.com><img src="https://img.shields.io/badge/Tech Blog-000000?style=plastic&logo=Tistory&logoColor=white"/></a>&nbsp;<!-- 지메일 --><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/galashow7@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>&nbsp;<!-- 노션 --><a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>
  
  
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&section=footer)
