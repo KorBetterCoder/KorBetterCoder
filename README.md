@@ -1,6 +1,6 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=while(true){new%20effort();}&fontSize=90&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=while(true){new%20effort();}&fontSize=40&fontAlign=50" />
 
 <div align="center">
 
